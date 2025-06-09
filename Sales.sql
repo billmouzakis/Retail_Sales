@@ -82,7 +82,7 @@ total_sale ="";
 # We can't predict the age of a customer. So we can't fill these NULL values
 
 # Also we can't fill any of the values in the columns quantity, price_per_unit, cogs, total_sale because as we can see there isn't any case where we can calculate one
-# of them basedo n the others.
+# of them based on the others.
 
 # So we can't fill any of these NULL values. Also the quantity of the rows which have null values related to the number of total rows is small. So we can exclude them.
 
